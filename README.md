@@ -6,7 +6,6 @@ Meu nome é Thiago Ruan Lesnik
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-@
 
 
 ![](https://media.tenor.com/DQZuhzX0-DIAAAAM/dance-dobbi.gif)
